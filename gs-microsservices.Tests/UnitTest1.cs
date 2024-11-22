@@ -1,0 +1,11 @@
+namespace gs_microsservices.Tests
+{
+    public class UnitTest1
+    {
+        [Fact]
+        public void Test1()
+        {
+
+        }
+    }
+}
